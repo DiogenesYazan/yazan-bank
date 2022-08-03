@@ -1,6 +1,9 @@
 # Yazan Bank
 
 Um novo app bank em Flutter 
+## Imagem:
+
+<img src="https://i.imgur.com/lk97ZOr.jpg">
 
 ## Começando
 
