@@ -1,31 +1,31 @@
-# yazan
+# Yazan Bank
 
-A new Flutter project.
+Um novo app bank em Flutter 
 
-## Getting Started
+## Começando
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+Os projetos FlutterFlow são criados para serem executados na versão Flutter _stable_.
 
-### IMPORTANT:
+### IMPORTANTE:
 
-For projects with Firestore integration, you must first run the following commands to ensure the project compiles:
+Para projetos com integração do Firestore, primeiro você deve executar os seguintes comandos para garantir que o projeto seja compilado:
 
 ```
-flutter pub get
-flutter packages pub run build_runner build --delete-conflicting-outputs
+flutter pub obter
+pacotes flutter pub run build_runner build --delete-conflicting-outputs
 ```
 
-This command creates the generated files that parse each Record from Firestore into a schema object.
+Este comando cria os arquivos gerados que analisam cada registro do Firestore em um objeto de esquema.
 
-### Getting started continued:
+### Começando continuação:
 
-This project is a starting point for a Flutter application.
+Este projeto é um ponto de partida para uma aplicação Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Alguns recursos para você começar se este for seu primeiro projeto Flutter:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Lab: Escreva seu primeiro aplicativo Flutter](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: exemplos úteis do Flutter](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para obter ajuda para começar a usar o Flutter, consulte nosso
+[documentação online](https://flutter.dev/docs), que oferece tutoriais,
+exemplos, orientação sobre desenvolvimento móvel e uma referência completa de API.
